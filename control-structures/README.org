@@ -1,0 +1,28 @@
+* Control Structures
+
+The source text for this section will be:
+
+- https://mitpress.mit.edu/books/software-design-flexibility
+
+* Pattern Matching
+
+** Python
+
+- https://www.python.org/dev/peps/pep-0636/
+
+
+** Clojure
+
+- https://github.com/clojure/core.match
+
+** Rust
+
+- https://doc.rust-lang.org/book/ch18-03-pattern-syntax.html
+
+** Haskell
+
+- https://www.haskell.org/tutorial/patterns.html
+
+** Elixir
+
+- https://elixir-lang.org/getting-started/pattern-matching.html
